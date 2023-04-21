@@ -30,3 +30,7 @@ Were run on Google Colab. The images were uploaded to my Google Drive and my dri
 ## PowerPoint folder:
 
 Contains the presentation pptx file.
+
+## Paper folder:
+
+Contains a pdf version of the paper, as well as the zipped Overleaf project.
