@@ -7,9 +7,7 @@ The dataset is from https://www.kaggle.com/datasets/tourist55/alzheimers-dataset
 
 This way I can do binary classification and create my own randomized training and testing sets. Find the reorganized dataset here: https://www.dropbox.com/s/9nffhc867a7zjxz/AlzheimersDataset.zip?dl=0
 
-# To run:
-
-## Most files:
+## For most files:
 
 Download the dataset using the dropbox link above. Open the notebook files in JupyterLab and run.
 
