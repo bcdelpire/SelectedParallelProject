@@ -23,7 +23,7 @@ First, run myPCA.ipynb to see how the principal components are generated and sav
 4. Create a managed dataset in VertexAI using the csv file.
 5. Train an AutoML model using the managed dataset.
 
-## Notebooks ending in GPU:
+## Notebooks ending with "GPU":
 
 Were run on Google Colab. The images were uploaded to my Google Drive and my drive was mounted to Colab in the first code block.
 
